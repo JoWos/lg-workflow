@@ -5,3 +5,8 @@ div {
 	padding: 0 2px;
 	background: #00a8b5;
 }
+
+h1 {
+  color: #fbb901;
+  border-bottom: 2px dotted #e62a76;
+}
