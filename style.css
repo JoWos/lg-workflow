@@ -9,4 +9,7 @@ div {
 
 h1 {
   text-align: center;
+  color: #fbb901;
+  border-bottom: 2px dotted #e62a76;
 }
+
