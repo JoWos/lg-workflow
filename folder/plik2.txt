@@ -1,0 +1,3 @@
+To jest drugi plik.
+Nie chcę go commitować.
+Ale to specjalnie się "pomylę".
