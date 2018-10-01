@@ -7,3 +7,6 @@
 5. Jako 1 użytkownik robię pull mastera - zaciąga mi się div, zakładam nowego brancha3 i zmieniam tło body. Pull req
 6.  Wracam do brancha1 - tu wszystko po staremu: diva nie ma, h1 jest czerwony. Dodaję podkreślenie h1. git push origin branch1 - wypchnęło się
 7. W branchu1 zmieniam kolor h1. 
+
+
+8. Tworzę brancha 6 - dodaję czcionki i drugiego diva dla słowa lesson. Dzielę h1 na dwa. Robię pull request.
