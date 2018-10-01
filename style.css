@@ -1,14 +1,22 @@
 
 body {
   background: #e9e2d0;
+  box-sizing: border-box;
 }
 
-div {
+.outer {
 	margin: 20px auto;
 	width: 110px;
-	height: 80px;
+	height: 100px;
 	padding: 0 2px;
 	background: #00a8b5;
+}
+
+.inner {
+	margin: -21px auto;
+	width: 150px;
+	height: 50px;
+	background-color:#fbb901;
 }
 
 h1 {
@@ -16,6 +24,7 @@ h1 {
   color: #fbb901;
 	border-bottom: 2px dotted #e62a76;
 	position: relative;
+	font-family: 'Oswald', sans-serif;
 }
 
 h1:after {
@@ -30,3 +39,8 @@ h1:after {
 }
 
 
+.inner h1 {
+	border-bottom: 2px dotted #e62a76;
+	font-family: 'Homemade Apple', cursive;
+	color: #00a8b5;
+}
