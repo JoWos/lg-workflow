@@ -1,1 +1,1 @@
-To jest plik 3, który przez przypadek commituję.
+﻿To jest plik 3, który przez przypadek commituję. :-)
