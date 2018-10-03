@@ -59,6 +59,10 @@ ul {
 	text-align: center;
 }
 
+li {
+	color: #774898;
+}
+
 .photo {
 	margin: 0 auto;
 	width: 250px;
