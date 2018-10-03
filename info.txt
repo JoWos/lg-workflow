@@ -10,3 +10,8 @@
 
 
 8. Tworzę brancha 6 - dodaję czcionki i drugiego diva dla słowa lesson. Dzielę h1 na dwa. Robię pull request.
+
+... później robiłam różne pull requesty, merge i rebase'y... 
+W branchu 8 utworzyłam konflikt z masterem i wysłałam pull requesta, następnie rozwiązałam konflikt bezpośrednio na githubie, zmerge'owałam mastera do brancha 8 i utworzyłam wymuszony commit, już bez konfliktów.
+
+9. Tworzę branch9. Zmieniam tylko plik info i tylko ten plik dodaję do indeksu (git add info.txt). Następnie zrobię pull requesta i sprawdzę co (jakie pliki) wyleciało na githuba.
